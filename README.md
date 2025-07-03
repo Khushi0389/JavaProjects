@@ -52,26 +52,32 @@ Welcome to my curated collection of Java GUI-based desktop applications, built u
 
 ## 🚀 How to Run
 
-```bash
 # 1. Clone the repository
+```bash
 git clone https://github.com/Khushi0389/JavaProjects.git
 cd JavaProjects
+```
 
 # 2. Compile any project
+```bash
 javac ProjectName.java
 java ProjectName
+```
 
 # 3. Or convert it to a .jar file
+```bash
 jar cfe ProjectName.jar ProjectName *.class
 java -jar ProjectName.jar
-🎓 Ideal For
-Resume and portfolio
+```
 
-College mini-projects
+# 🎓Ideal For
+--Resume and portfolio
 
-Java Swing practice
+--College mini-projects
 
-Desktop utility tools
+--Java Swing practice
 
-📜 License
+--Desktop utility tools
+
+# 📜 License
 This repository is open-source and free to use under the MIT License.

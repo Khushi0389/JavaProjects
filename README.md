@@ -51,11 +51,6 @@ Welcome to my curated collection of Java GUI-based desktop applications, built u
 ---
 
 ## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/java-projects.git
-   cd java-projects
-Compile any project:
 
 ```bash
  javac ProjectName.java

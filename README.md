@@ -58,13 +58,13 @@ Welcome to my curated collection of Java GUI-based desktop applications, built u
 Compile any project:
 
 ```bash
-javac ProjectName.java
-java ProjectName
+ javac ProjectName.java
+ java ProjectName
 Or convert to .jar:
 
 ```bash
-jar cfe ProjectName.jar ProjectName *.class
-java -jar ProjectName.jar
+ jar cfe ProjectName.jar ProjectName *.class
+ java -jar ProjectName.jar
 
 🎓 Ideal For
 --Resume and portfolio

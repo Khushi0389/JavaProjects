@@ -57,24 +57,23 @@ Welcome to my curated collection of Java GUI-based desktop applications, built u
    cd java-projects
 Compile any project:
 
-bash
-
+```bash
 javac ProjectName.java
 java ProjectName
 Or convert to .jar:
 
-bash
-
+```bash
 jar cfe ProjectName.jar ProjectName *.class
 java -jar ProjectName.jar
+
 🎓 Ideal For
-Resume and portfolio
+--Resume and portfolio
 
-College mini-projects
+--College mini-projects
 
-Java Swing practice
+--Java Swing practice
 
-Desktop utility tools
+--Desktop utility tools
 
 📜 License
 This repository is open-source and free to use under the MIT License.

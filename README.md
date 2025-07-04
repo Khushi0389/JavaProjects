@@ -43,6 +43,10 @@ Welcome to my curated collection of Java GUI-based desktop applications, built u
 - Features: Match tracking, simple timer, animations with emojis.
 - Concepts: Arrays, UI interaction, JButton[][] grid, randomness.
 
+### 10. 🎨 Paint App
+- A fun drawing app like mini MS Paint.
+- Features: Draw with mouse, color picker, brush size, clear canvas, save to PNG.
+
 ---
 
 ## 🛠️ Technologies Used

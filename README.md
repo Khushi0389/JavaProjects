@@ -38,6 +38,11 @@ Welcome to my curated collection of Java GUI-based desktop applications, built u
 - Multiple-choice question app with scoring.
 - Features: Question navigation, timer, score tracking, restart quiz, dark/light mode toggle.
 
+### 9. 🧠 Memory Game (Card Flip Pairs)
+- Click cards to flip and match emoji pairs.
+- Features: Match tracking, simple timer, animations with emojis.
+- Concepts: Arrays, UI interaction, JButton[][] grid, randomness.
+
 ---
 
 ## 🛠️ Technologies Used
